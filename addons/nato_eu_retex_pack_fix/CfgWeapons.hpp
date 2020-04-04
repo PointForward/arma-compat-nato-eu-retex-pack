@@ -622,6 +622,7 @@ class CfgWeapons {
 	class EU_REtex_pack_DEN_vest : V_PlateCarrier1_rgr {
 		class ItemInfo : VestItem {
 			containerClass = "Supply140";
+			descriptionShort = "Armor Level IV";
 			mass = 100;
 			class HitpointsProtectionInfo {
 				class Abdomen {
@@ -646,6 +647,7 @@ class CfgWeapons {
 	class EU_REtex_pack_ENG_Armor_SAS : V_PlateCarrier1_rgr {
 		class ItemInfo : VestItem {
 			containerClass = "Supply140";
+			descriptionShort = "Armor Level IV";
 			mass = 100;
 			class HitpointsProtectionInfo {
 				class Abdomen {
@@ -670,6 +672,7 @@ class CfgWeapons {
 	class EU_REtex_pack_GER_vest_D : V_PlateCarrier1_rgr {
 		class ItemInfo : VestItem {
 			containerClass = "Supply140";
+			descriptionShort = "Armor Level IV";
 			mass = 100;
 			class HitpointsProtectionInfo {
 				class Abdomen {
@@ -694,6 +697,7 @@ class CfgWeapons {
 	class EU_REtex_pack_GER_vest_T : V_PlateCarrier1_rgr {
 		class ItemInfo : VestItem {
 			containerClass = "Supply140";
+			descriptionShort = "Armor Level IV";
 			mass = 100;
 			class HitpointsProtectionInfo {
 				class Abdomen {
@@ -718,6 +722,7 @@ class CfgWeapons {
 	class EU_REtex_pack_NED_vest : V_PlateCarrier1_rgr {
 		class ItemInfo : VestItem {
 			containerClass = "Supply140";
+			descriptionShort = "Armor Level IV";
 			mass = 100;
 			class HitpointsProtectionInfo {
 				class Abdomen {
@@ -739,9 +744,10 @@ class CfgWeapons {
 		};
 	};
 	
-	class EU_REtex_pack_NOR_vest : V_PlateCarrier1_rgr {
+	class EU_REtex_pack_NOR_vest_full : V_PlateCarrier1_rgr {
 		class ItemInfo : VestItem {
 			containerClass = "Supply140";
+			descriptionShort = "Armor Level IV";
 			mass = 100;
 			class HitpointsProtectionInfo {
 				class Abdomen {
@@ -766,6 +772,7 @@ class CfgWeapons {
 	class EU_REtex_pack_P_vest : V_PlateCarrier1_rgr {
 		class ItemInfo : VestItem {
 			containerClass = "Supply140";
+			descriptionShort = "Armor Level IV";
 			mass = 100;
 			class HitpointsProtectionInfo {
 				class Abdomen {
